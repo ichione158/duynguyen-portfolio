@@ -8,7 +8,7 @@ This portfolio showcases selected professional projects I've contributed to.
 
 ## 📌 Featured Projects
 
-### 1. 🎯 [Recruitment System]([#](https://minpo.or.jp/recruit))
+### 1. 🎯 [Recruitment System](https://minpo.or.jp/recruit)
 **Duration:** Jan 2024 – Jun 2025  
 **Role:** Project Manager (Team size: 10)  
 **Tech:** PHP, MySQL, Docker, Git  
