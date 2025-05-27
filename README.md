@@ -65,4 +65,4 @@ Platform to handle location-based waste pickup requests.
 
 - 📧 hoan.duy1508@gmail.com  
 - 📞 +84 395 689 977  
-- 🌐 [LinkedIn (nếu có)](#)
+- 🌐 [LinkedIn](#)
