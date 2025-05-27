@@ -8,7 +8,7 @@ This portfolio showcases selected professional projects I've contributed to.
 
 ## 📌 Featured Projects
 
-### 1. 🎯 <a href="https://minpo.or.jp/recruit" target="_blank" rel="noopener noreferrer">[Recruitment System]</a>
+### 1. 🎯 [Recruitment System](minpo.or.jp/recruit)
 **Duration:** Jan 2024 – Jun 2025  
 **Role:** Project Manager (Team size: 10)  
 **Tech:** PHP, MySQL, Docker, Git  
@@ -19,7 +19,7 @@ A web-based platform for schools to post job listings and manage recruitment eve
 
 ---
 
-### 2. 🚌 <a href="https://datve.hoangyenlogistics.vn/" target="_blank" rel="noopener noreferrer">[Passenger Ticketing & Cargo Management System]</a>
+### 2. 🚌 [Passenger Ticketing & Cargo Management System](https://datve.hoangyenlogistics.vn/)
 **Duration:** Aug 2022 – Present  
 **Role:** Team Leader (Team size: 6)  
 **Tech:** Laravel, MySQL, Redis, Git, Docker  
