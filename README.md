@@ -53,11 +53,11 @@ Platform to handle location-based waste pickup requests.
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, JavaScript, Python  
+- **Languages:** PHP, JavaScript  
 - **Frameworks:** Laravel, WordPress, CodeIgniter, ReactJS (basic)  
 - **DevOps:** Docker, Git, LAMP/LEMP  
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Airflow, GitHub Actions
+- **Tools:** GitHub Actions
 
 ---
 
