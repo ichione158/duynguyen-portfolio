@@ -1,3 +1,7 @@
+﻿<a href="#" target="_blank">
+  <img src="duynguyen.svg" width="1200" alt="Nguyễn Hoàng Duy" />
+</a>
+
 # 👨‍💻 Nguyen Hoang Duy – Portfolio
 
 Hi! I'm a Senior PHP/Laravel Developer with over 4 years of experience building scalable web systems, leading development teams, and working with clients in Japan and Vietnam.
